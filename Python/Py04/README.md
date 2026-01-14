@@ -8,7 +8,9 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
         - 업데이트 예시
-        - ![]([KHN_image.png](https://github.com/shkim-aiffel/Chang1_AIFFEL_quest_eng/blob/main/Python/Py03/KHN_image.png))
+         <img width="271" height="268" alt="image" src="https://github.com/user-attachments/assets/00f8a574-5674-46d3-ae1f-ed4ed354a0c7" />
+
+
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
